@@ -1,0 +1,5 @@
+HOMEPAGE = "https://www.amazon.com.tr/"
+BROWSER = "chrome"
+nameInput = "Hatun Koç"
+mailInput = "hatunnkocc.4@gmail.com"
+passwordInput = "Hatun112."
